@@ -1,0 +1,19 @@
+.login {
+	-fx-background-color: linear-gradient(to right, rgb(26, 41, 128),
+		rgb(38, 208, 206));
+}
+
+.login-titulo {
+	-fx-font-size: 24px;
+	-fx-text-fill: white;
+}
+
+.login-form-label {
+	-fx-font-size: 16px;
+	-fx-text-fill: white;
+}
+
+.login-form-botao {
+	-fx-font-size: 16px;
+	-fx-text-fill: black;
+}
