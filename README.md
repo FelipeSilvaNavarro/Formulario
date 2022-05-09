@@ -1,3 +1,3 @@
 # FormularioJavaFX
-Form developed in javafx, css and fxml
-Required @.com in the "Email" field and password only numbers
+Formulário desenvolvido em javafx, css e fxml
+Obrigatório @.com no campo "E-mail" e apenas números na senha
